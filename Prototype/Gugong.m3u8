@@ -133,6 +133,12 @@ http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
+#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428318_ico.png" group-title="中国",COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd
+
+
 #EXTINF:-1 tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="中国",东方卫视
@@ -486,26 +492,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-
-#EXTINF:-1 tvg-id="B01.qa" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1
-http://116.203.40.131:80/hls/bein1.m3u8
-#EXTINF:-1 tvg-id="B02.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 2
-http://116.203.40.131:80/hls/bein2.m3u8
-#EXTINF:-1 tvg-id="B03.qa" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="体育",beIN Sports 3
-http://116.203.40.131:80/hls/bein3.m3u8
-#EXTINF:-1 tvg-id="B04.qa" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="体育",beIN Sports 4
-http://116.203.40.131:80/hls/bein4.m3u8
-#EXTINF:-1 tvg-id="B05.qa" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="体育",beIN Sports 5
-http://116.203.40.131:80/hls/bein5.m3u8
-#EXTINF:-1 tvg-id="B06.qa" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="体育",beIN Sports 6
-http://116.203.40.131:80/hls/bein6.m3u8
-#EXTINF:-1 tvg-id="B07.qa" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="体育",beIN Sports 7
-http://116.203.40.131:80/hls/bein7.m3u8
-#EXTINF:-1 tvg-id="B08.qa" tvg-logo="https://static.epg.best/qa/beINSports8.qa.png" group-title="体育",beIN Sports 8
-http://116.203.40.131:80/hls/bein8.m3u8
-#EXTINF:-1 tvg-id="B09.qa" tvg-logo="https://static.epg.best/qa/beINSports9.qa.png" group-title="体育",beIN Sports 9
-http://116.203.40.131:80/hls/bein9.m3u8
-
 
 #EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
