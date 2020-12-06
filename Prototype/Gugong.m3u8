@@ -934,7 +934,7 @@ http://digitalxpress.gcdn.co/live1/rtp1/index.m3u8
 #EXTINF:-1 tvg-ID="TVI.PT" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="拉丁精选",TVI
 http://85.25.103.21:8081/live/TVI/playlist.m3u8
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="拉丁精选",Globo
-ttp://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="苏联精选",Первый
 https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
