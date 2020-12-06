@@ -357,6 +357,12 @@ http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/DramaTV/images/drama.logo.png" group-title="سوريا",Syria Drama
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="سوريا",Lana HD TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="سوريا",Lana Plus TV
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/08/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-3.png" group-title="سوريا",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريا",Syrian Education
@@ -692,7 +698,7 @@ http://82.212.74.100:8000/live/8951.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kurdistan24.blob.core.windows.net/Moviesanager/resources/files/2019/03/Avaentertainment3535.jpg" group-title="العراق",AVA Entertainment
 https://wowzaprod219-i.akamaihd.net:443/hls/live/1003949/c9aa559e/c9aa559e_1_2160000/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" group-title="العراق",Babylon TV
-https://iqlivestream.com/babylontv/kardokardo.m3u8
+https://iqlivestream.com/babylontv/babylonlivestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ch14.tv/images/14.png" group-title="العراق",Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="العراق",Dijlah
