@@ -1283,7 +1283,7 @@ http://digitalxpress.gcdn.co/live1/hbo2polska/index.m3u8
 http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="România",TVR 1	
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist.m3u893.190.138.235
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="România",TVR 2	
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="România",TVR 3	
@@ -1297,7 +1297,7 @@ https://mn-nl.mncdn.com/tvr_cluj_live/tvr_cluj_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://craiova.tvr.ro/images/logo_main_tvrcraiova.png" group-title="România",TVR Craiova	
 https://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://timisoara.tvr.ro/images/logo_main_tvrtimisoara.png" group-title="România",TVR Timisoara 
-https://mn-nl.mncdn.com/tvr_timisoara_live/tvr_timisoara_live2/playlist.m3u8http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8 
+https://mn-nl.mncdn.com/tvr_timisoara_live/tvr_timisoara_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://iasi.tvr.ro/images/logo_main_tvriasi.png" group-title="România",TVR Iasi
 https://mn-nl.mncdn.com/tvr_iasi_live/tvr_iasi_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mures.tvr.ro/images/logo_main_tvrmures.png" group-title="România",TVR Targu-Mures
