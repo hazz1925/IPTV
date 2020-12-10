@@ -537,8 +537,8 @@ https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Français",TV5 Monde Info (Taiwan)
 https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Français",TV5 Europe
+http://51.52.156.23:8888/http/005
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Français",TV5 Monde Pacifique (Korea)
 https://tv5pacifiqueko-i.akamaihd.net/hls/live/630177/tv5pacifiqueko/index.m3u8
@@ -733,8 +733,15 @@ http://wpso.com:1936/hls/kidshd.m3u8
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
+
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Deutschland",Das Erste
+http://51.52.156.23:8888/http/009
+
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",ZDF Info
+http://51.52.156.23:8888/http/010
 #EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://static.epg.best/de/ARDalpha.de.png" group-title="Deutschland",ADR Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="ART.DE" tvg-logo="https://i.imgur.com/xXRYZd6.png"  group-title="Deutschland",Arte Deutsch
