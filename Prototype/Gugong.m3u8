@@ -112,7 +112,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RJW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv/chunklist_w1474469129.m3u8
-#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台湾",唯心電視
+#EXTINF:-1 tvg-id="WXT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台湾",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="台湾",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
