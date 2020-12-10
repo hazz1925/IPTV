@@ -633,10 +633,6 @@ http://stream4.swecom.cm/star21/chunklist_b2038272.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fi/YleTV1.fi.png" group-title="Suomi",Yle 1
-http://193.64.188.131:8011/bysid/17
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fi/YleTV2.fi.png" group-title="Suomi",Yle 2
-http://193.64.188.131:8011/bysid/33
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfatv.fi/wp-content/themes/alfatv/layout/alfa-tv-logo.png" group-title="Suomi",Alfa
 https://693a74ecd6a048f2a460cc38c2259994.dlvr1.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8?organizationId=4507452&suiteItemId=4515276
 
