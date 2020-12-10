@@ -118,8 +118,7 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="台湾",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="GOD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾",Good TV
-https://live.streamingfast.net/osmflivech1.m3u8
+
 
 #EXTINF:-1 tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="中国",星空卫视
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
