@@ -414,7 +414,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Kids/Animation",Pop UK
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="Kids/Animation",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+http://51.52.156.25:8888/http/002
 #EXTINF:-1 tvg-id="NIC.IN" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="Kids/Animation",Tiny Pop
@@ -635,7 +635,7 @@ https://uk.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?s
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
 https://uk.easyview.eu/hls/nbcb.m3u8|Referer=https://easyview.eu/watch.php?stream=nbcb
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" group-title="UK",BBC Parliament
-https://uk.easyview.eu/hls/bbc-parliament.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-parliament
+http://51.52.156.24:8888/http/009
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="UK",BBC Alba
 http://51.52.156.21:8888/http/001
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="UK",BBC Earth
@@ -665,6 +665,8 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UK",CITV
 http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UK",ITV Be
+http://51.52.156.24:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim TV
@@ -700,7 +702,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="MAG.UK" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="UK",Magic
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTUK.ru.png" group-title="UK",RT UK
 #EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UK",Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="UK",Sony Movies Action
@@ -708,7 +709,7 @@ http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="UK",S4C
-https://uk.easyview.eu/hls/s4c.m3u8|Referer=https://easyview.eu/watch.php?stream=s4c
+http://51.52.156.25:8888/http/006
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",Venus TV
 http://45.77.90.56:8080/hls/mystream.m3u8
 
