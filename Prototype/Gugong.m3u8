@@ -590,9 +590,9 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
-http://digitalxpress.gcdn.co/live1/bbc1/index.m3u8
+http://51.52.156.23:8888/http/011
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
-http://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+http://51.52.156.23:8888/http/012
 #EXTINF:-1 tvg-id="CB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
 http://digitalxpress.gcdn.co/live1/bbc4/index.m3u8
 #EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="英国",BBC Earth
@@ -613,6 +613,9 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="英国",CITV
 http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="英国",5Star
+http://51.52.156.24:8888/http/007
+
 #EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="英国",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF:-1 tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="英国",Kerrang!
@@ -803,8 +806,13 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="欧洲精选",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
+
 #EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="欧洲精选",Canale 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:-1 tvg-id="RA3.IT" tvg-logo="https://www.raisport.rai.it/dl/img/2019/10/1600x900_1571057814544.Rai_3_HD_Logo_RGB.jpg" group-title="欧洲精选",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="欧洲精选",Italia 1
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
 
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="欧洲精选",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
