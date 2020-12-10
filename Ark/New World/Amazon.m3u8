@@ -1,22 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Italia",Rai 1
-http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png" group-title="Italia",Rai 2
-http://5.135.92.133:52841/out/u/452_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai3-hd.png" group-title="Italia",Rai 3
-http://s3.smashmalta.com:82/live/smash/smash/56.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="Italia",Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/RaiItalia.it.png" group-title="Italia",Rai Italia
-https://itpolly.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Boing.it.png" group-title="Italia",Boing
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Cartoonito.it.png" group-title="Italia",Cartoonito
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LA)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Italia",Canale 5
-http://5.135.92.133:52841/out/u/425_1.m3u8
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/cine34.jpg" group-title="Italia",Cine 34
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(B6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryDMAX.uk.png" group-title="Italia",Dmax
@@ -34,7 +26,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Iris.it.png" group-title="Italia",Iris
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Italia",Italia 1
-http://5.135.92.133:52841/out/u/53_1.m3u8
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia2.it.png" group-title="Italia",Italia 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/20Mediaset.it.png" group-title="Italia",20 Mediaset
@@ -64,7 +56,7 @@ http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="T2K.IT" tvg-logo="https://i.imgur.com/wbxjxXr.jpg"group-title="Italia",TV2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Tgcom24.it.png" group-title="Italia",TGCom 24
-http://5.135.92.133:52841/out/u/73_1.m3u8
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KF)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/TopCrime.it.png" group-title="Italia",Top Crime
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8
 
