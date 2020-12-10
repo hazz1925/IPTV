@@ -628,8 +628,6 @@ https://uk.easyview.eu/hls/bbc-one-northern-ireland.m3u8|Referer=https://easyvie
 http://51.52.156.21:8888/http/005
 #EXTINF:-1 tvg-id="" tvg-logo="https://ichef.bbci.co.uk/images/ic/160xn/p07ttw1j.png" group-title="UK",BBC One Wales
 https://uk.easyview.eu/hls/bbc-one-wales.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-wales
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
-https://uk.easyview.eu/hls/bbc-two.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-two
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
 https://uk.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
