@@ -227,8 +227,8 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/ExpressNews.pk.png" group-title="خبریں",Express News
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/GeoNews.pk.png" group-title="خبریں",Geo News
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="GEN.PK" tvg-logo="https://static.epg.best/pk/GeoNews.pk.png" group-title="خبریں",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://geotez.tv/assets/front/images/tez_logo.png" group-title="خبریں",Geo Tez
 http://stream1.jeem.tv/geo/geotezz_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg" group-title="خبریں",Gulistan News
