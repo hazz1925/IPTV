@@ -851,18 +851,12 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 
-#EXTINF:-1 tvg-id="AZ1.MX" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="拉丁精选",Azteca Uno
-https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8|X-Forwarded-For=194.41.112.22
-#EXTINF:-1 tvg-id="AZ7.MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="拉丁精选",Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="AN3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="拉丁精选",Antena 3
-https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="拉丁精选",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="LA6.ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="拉丁精选",LA Sexta
-https://livestartover.atresmedia.com/lasexta/master.m3u8
+https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live
 #EXTINF:-1 tvg-ID="TEL.AR" tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.04.01/images/logo-telefe.3874c0defd1c086d07474d5caed4df1f.png" group-title="拉丁精选",Telefe
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-ID="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="拉丁精选",RTP 1
