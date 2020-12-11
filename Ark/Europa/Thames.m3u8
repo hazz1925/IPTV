@@ -128,18 +128,6 @@ https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN1.ca.png" group-title="Sports",TSN 1
-http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN2ca.png" group-title="Sports",TSN 2
-http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN3.ca.png" group-title="Sports",TSN 3
-http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="Sports",TSN 4
-http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="Sports",TSN 5
-http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
 https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
@@ -618,10 +606,12 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png" group-title="Oceania",Wairarapa TV
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
+#EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="UK",BBC 1
 http://51.52.156.23:8888/http/011
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
 http://51.52.156.23:8888/http/012
+#EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 2
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="UK",BBC 1 Northern Ireland
 https://uk.easyview.eu/hls/bbc-one-northern-ireland.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
@@ -641,17 +631,19 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="UK",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="UK",CBBC
-https://uk.easyview.eu/hls/cbbc.m3u8|Referer=https://easyview.eu/watch.php?stream=cbbc
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
-https://uk.easyview.eu/hls/cbeebies.m3u8|Referer=https://easyview.eu/watch.php?stream=cbeebies
-
+http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="UK",Channel 4
 http://51.52.156.21:8888/http/003
+
+#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="UK",Flim 4
+http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UK",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
 #EXTINF:-1 tvg-id="4SV.UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" group-title="UK",4Seven
 https://uk.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?stream=4seven
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="UK",5 Star
+#EXTINF:-1 tvg-id="5ST.UK" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="UK",5 Star
 http://51.52.156.24:8888/http/007
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
