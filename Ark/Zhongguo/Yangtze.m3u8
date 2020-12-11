@@ -498,7 +498,7 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/index_0540_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg" group-title="한국",Korean Central Television 
-https://tv.nknews.org/tvhls/stream.m3u8
+https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
 rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxYzQ4NjhjNTFiNGYwNGM5MDYwNjI0ZDI1MWU0MzQ2NjY1NjRlNmI1MmViNGJkOWIzNWQ4N2JlODY4YTU3ZDk5NDEyMWIzZjUzMjkzZjI4YjZjYjhiZDdlMTRmYWIwODBjODY4ZDUxMzg4NTc3NzZiMTQyOTk0NDJlZWNjMDUyM2I3MmU3NzQxMGNkZjVjNmQ4NDBjNTFhNzBjMmE3ODg0ZTA3ZTIwZGYwYjRhODBlNDMxYTlmNzFmODhhYmVkY2U2MDBkYmIxZDIxOTYxZTA0ODZjMzQ4YjhkMGViMmIyNzg4MmVhMWM0MmY4MWI1OTVmY2VlM2QzOGRkMjcyYzg5ZDA2Y2RmNWNiN2QyMzYwNTg=&csu=false
