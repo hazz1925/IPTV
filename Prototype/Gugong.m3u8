@@ -861,8 +861,9 @@ https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/at/ORF1.at.png" group-title="欧洲精选",ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8|X-Forwarded-For=37.120.212.140
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="欧洲精选",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="欧洲精选",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
@@ -873,6 +874,8 @@ http://185.19.191.12:8090/SVT1/index.m3u8
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="欧洲精选",DR 1
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="欧洲精选",ETV
+https://sb.err.ee/live/etv.m3u8
 
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲精选",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
