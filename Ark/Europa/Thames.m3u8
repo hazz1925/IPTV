@@ -621,7 +621,7 @@ https://uk.easyview.eu/hls/bbc-one-wales.m3u8|Referer=https://easyview.eu/watch.
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBC4.uk.png" group-title="UK",BBC 4
 https://uk.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
-https://uk.easyview.eu/hls/nbcb.m3u8|Referer=https://easyview.eu/watch.php?stream=nbcb
+http://51.52.156.23:8888/http/011
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCParliament.uk.png" group-title="UK",BBC Parliament
 http://51.52.156.24:8888/http/009
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="UK",BBC Alba
@@ -702,7 +702,10 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http
 http://51.52.156.25:8888/http/006
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",Venus TV
 http://45.77.90.56:8080/hls/mystream.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",TBN UK
+http://51.52.156.24:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.venustv.tv/assets/img/NEW_VENUS_LOGO_sky_716.png" group-title="UK",BBC World News
+http://51.52.156.25:8888/http/005
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="Éire",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
