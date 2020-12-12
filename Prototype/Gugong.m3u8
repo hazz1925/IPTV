@@ -171,11 +171,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中国",兵团卫视
 http://39.134.168.76/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
 #EXTINF:-1 tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226877/index.m3u8
 #EXTINF:-1 tvg-id="GZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226827/index.m3u8
 #EXTINF:-1 tvg-id="GSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="中国",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="GXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="中国",广西卫视
@@ -195,7 +195,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
 #EXTINF:-1 tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/index.m3u8
 #EXTINF:-1 tvg-id="NNN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="中国",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="中国",宁夏卫视
@@ -203,7 +203,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="QHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="中国",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="SIC.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225621/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
 #EXTINF:-1 tvg-id="SZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-id="SDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="中国",山东卫视 
@@ -221,7 +221,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="XJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="XMW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="中国",厦门卫视
-http://39.134.168.76/PLTV/1/224/3221225640/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="中国",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
@@ -260,7 +260,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="Fra.News" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24(法国)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻",鳳凰资讯(中国)
-http://live.centerch.com/fhzx.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="新闻",鳳凰衛視中文(中国)
 http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 #EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="新闻",NHK World(日韩)
