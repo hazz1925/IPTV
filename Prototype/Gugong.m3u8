@@ -235,7 +235,7 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻",Al Jazeera(中东)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(日韩)
+#EXTINF:-1 tvg-ID="Ari.KR" logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(日韩)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="新闻",Africa News(非洲)
 https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
