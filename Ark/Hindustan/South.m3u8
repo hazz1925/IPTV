@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunLife.in.png" group-title="பொழுதுபோக்கு",Sun Life
-https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8
+http://185.246.210.54:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="பொழுதுபோக்கு",Sun TV
 https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="பொழுதுபோக்கு",Raj TV
@@ -149,7 +149,7 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chun
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim@2x.gif" group-title="இசை",Santhora TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="இசை",Sun Music
-https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8
+http://185.246.210.54:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.celltel.co.nz/img/channels/tamil/isaiaruvi-tv.png" group-title="இசை",Isai Aruvi
 https://load.airtelxstream.in/isaiaruvi/smil:common.smil/playlist.m3u8
 
@@ -211,10 +211,6 @@ https://load.airtelxstream.in/tv5telugu/smil:common.smil/playlist.m3u8
 https://load.airtelxstream.in/v6news/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/10tv_telugu.jpg/150px-10tv_telugu.jpg" group-title="తెలుగు",10TV
 https://load.airtelxstream.in/10tvtelugunews/smil:common.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="తెలుగు",Sony yay (Telegu)
-https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
