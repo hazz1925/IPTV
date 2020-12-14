@@ -106,8 +106,6 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8"
 http://185.59.223.135/espn/index.m3u8
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
 http://185.59.223.135/espn2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Sports",ESPN Extra (Latinoamérica)
-http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sports",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
@@ -128,10 +126,30 @@ https://hackey.stream/hlsrio/test.m3u8
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1.in.png" group-title="Cricket",Star Sports 1
+http://185.246.210.54:2200/EX/starsports1hd-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Cricket",Star Sports 2
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports3.in.png" group-title="Cricket",Star Sports 3
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Cricket",Star Sports 1 Hindi
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Cricket",Star Sports 2 Hindi
+http://185.246.210.54:2200/EX/starsports2hd-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonySIX.in.png group-title="Cricket",Sony Six
+http://185.246.210.54:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8
+http://185.246.210.54:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2
+http://185.246.210.54:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/playlist.m3u8
+http://185.246.210.54:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+
 
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Football",Premier HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -154,8 +172,6 @@ https://e10.habrox.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/st
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Football",Movistar Liga de Campeones
-http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="Golf",Golf Channel
 http://190.122.109.218:8888/http/010
@@ -222,8 +238,6 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="Entertainment",Comedy Central
-https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Entertainment",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://dstroscal1.s.llnwi.net/public/hls/22728/monarch/logo_20191212_203358.png" group-title="Entertainment",Monarch TV
