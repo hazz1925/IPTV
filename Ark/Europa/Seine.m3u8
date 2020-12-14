@@ -1081,19 +1081,24 @@ http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" group-title="Polska",Canal + Sport
-http://digitalxpress.gcdn.co/live1/canalsport/index.m3u8
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport%202.pl.png" group-title="Polska",Canal+ Sport2
 http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusFilm.pl.png" group-title="Polska",Canal + Film
-http://digitalxpress.gcdn.co/live1/canal+film/index.m3u8
+http://207.110.52.61:8080/s/hls/5/3441/hd_canal_plus_film_249/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusFilm.pl.png" group-title="Polska",Canal+ Seriale
+http://207.110.52.61:8080/s/hls/5/4211/canal_plus_seriale_435/1/1/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Domo.pl.png" group-title="Polska",Domo +
 http://digitalxpress.gcdn.co/live1/domo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/KuchniaPlus.pl.png" group-title="Polska",Kuchnia +
 http://digitalxpress.gcdn.co/live1/kuchnia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Minimini.pl.png" group-title="Polska",Mini Mini +
-http://digitalxpress.gcdn.co/live1/minimini/index.m3u8
+http://207.110.52.61:8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/nSport.pl.png" group-title="Polska",nSport +
 http://digitalxpress.gcdn.co/live1/nsport/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP1.pl.png" group-title="Polska",TVP 1
 http://digitalxpress.gcdn.co/live1/tvp1/index.m3u8
@@ -1142,21 +1147,18 @@ http://digitalxpress.gcdn.co/live1/tvphistoria/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPABC.pl.png" group-title="Polska",TVP ABC
 http://digitalxpress.gcdn.co/live1/tvpabc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPPolonia.pl.png" group-title="Polska",TVP Polonia
-http://digitalxpress.gcdn.co/live1/tvppolonia/index.m3u8
+http://207.110.52.61:8080/s/hls/5/7418/tvp_polonia_425/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPSport.pl.png" group-title="Polska",TVP Sport
-http://digitalxpress.gcdn.co/live1/tvpsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPRozrywka.pl.png" group-title="Polska",TVP Rozrywka
-http://digitalxpress.gcdn.co/live1/TVProzrywka/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPSeriale.pl.png" group-title="Polska",TVP Seriale
-http://digitalxpress.gcdn.co/live1/tvpseriale/index.m3u8
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.epg.best/pl/KinoPolska.pl.png" group-title="Polska",Kino Polska
 http://digitalxpress.gcdn.co/live1/kinopolska/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="Polska",Polsat 1
-http://digitalxpress.gcdn.co/live1/polsat/index.m3u8
+http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.epg.best/pl/Polsat2.pl.png" group-title="Polska",Polsat 2
-http://digitalxpress.gcdn.co/live1/polsat2/index.m3u8
+http://207.110.52.61:8080/s/hls/5/5147/polsat2_269/1/1/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://static.epg.best/pl/PolsatCafe.pl.png" group-title="Polska",Polsat Cafe
 http://digitalxpress.gcdn.co/live1/polsatcafe/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.epg.best/pl/PolsatNews.pl.png" group-title="Polska",Polsat News
@@ -1216,10 +1218,12 @@ http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zoomtv.pl/img/logo_ftr.png" group-title="Polska",Zoom TV
 http://digitalxpress.gcdn.co/live1/zoom/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Polska",AXN
+http://207.110.52.61:8080/s/hls/5/4147/axn_polska_279/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Polska",Cinemax
 http://digitalxpress.gcdn.co/live1/cinemaxpolska/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="Polska",Discovery
-http://digitalxpress.gcdn.co/live1/discoverychannelpolska/index.m3u8
+http://207.110.52.61:8080/s/hls/5/7248/discovery_polska_246/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/DiscoveryScience.pl.png" group-title="Polska",Discovery Science
 http://digitalxpress.gcdn.co/live1/discoverysciencepolska/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/InvestigationDiscovery.pl.png" group-title="Polska",ID Discovery
@@ -1236,6 +1240,15 @@ http://digitalxpress.gcdn.co/live1/hbopolska/index.m3u8
 http://digitalxpress.gcdn.co/live1/hbo2polska/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/HBO3.pl.png" group-title="Polska",HBO 3 Polska
 http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Polska",Eleven Sports Polandia
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Polska",Eleven Sports 2 Polandia
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Polska",13 Ulica HD
+http://207.110.52.61:8080/s/hls/5/6896/13_ulica_813/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Cinemax.pl.png" group-title="Polska",Ale Kino+
+http://207.110.52.61:8080/s/hls/5/9774/ale_kino_263/1/1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="România",TVR 1	
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist.m3u8
