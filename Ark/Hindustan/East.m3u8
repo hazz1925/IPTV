@@ -252,7 +252,7 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="संगीत",Mastiii
-https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8
+http://185.246.210.54:2200/R-EX/HINDI_MASTII-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="संगीत",Music India
 http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WowMusic.in.png" group-title="संगीत",Wow Music
