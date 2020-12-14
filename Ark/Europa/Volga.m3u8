@@ -764,7 +764,7 @@ https://sb.err.ee/live/etv.m3u8
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETVPlus.ee.png" group-title="Baltic States",ETV+ (Eesti)
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="Baltic States",LRT Lituanica(Lietuva)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="Baltic States",LRT Lituanica(Lietuva)
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/LRT_radijas.jpg" group-title="Baltic States",LRT Radijas(Lietuva)
 https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8
