@@ -556,7 +556,6 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
 
-
 #EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="日韩",tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -873,9 +872,9 @@ http://nn1.joj.sk/hls/joj-720.m3u8
 
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="欧洲精选",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
-#EXTINF:-1 tvg-id="M1.MO" tvg-logo="http://trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png" group-title="欧洲精选",Moldova 1
+#EXTINF:-1 tvg-id="M1.MO" tvg-logo="https://static.epg.best/md/Moldova1.md.png" group-title="欧洲精选",Moldova 1
 http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1 tvg-id="LRT.LT tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="欧洲精选",LRT Lituanica(Lietuva)
+#EXTINF:-1 tvg-id="LRT.LT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="欧洲精选",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT1
