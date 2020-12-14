@@ -539,7 +539,7 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 ch-id="tv.7openshop" tvg-logo="https://i.mjh.nz/au/images/tv.7openshop.png" group-title="Oceania",openshop
 https://i.mjh.nz/au/Brisbane/tv.7openshop.m3u8
 #EXTINF:-1 ch-id="KOR.NZ" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/2_Freeview_Website-02.png" group-title="Oceania",Kordia TV
-https://streaming.kordia.net.nz/out/u/ContentServices.m3u8
+https://i.mjh.nz/nz/tv.66.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fbcnews.com.fj/wp-content/themes/fbc2018/img/brand-logos/FBCTV_150.fw.png",FBC TV
 https://walesifbctv.secureswiftcontent.com/walesi/FBCTV-0x67-0xca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fijione.tv/wp-content/uploads/2018/01/fiji-one-transparent-e1515693321446.png" group-title="Oceania",Fiji One
@@ -564,8 +564,13 @@ https://livestreams.e-cast.co.nz/apnatv/apnatv_1000k.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png" group-title="Oceania",C31
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.ourguide.com.au/images/station_images/44.png" group-title="Oceania",C44
-https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ourguide.com.au/images/station_images/44.png" group-title="Oceania",NZ Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Trackside1nz.png" group-title="Oceania",TAB Trackside 1
+https://i.mjh.nz/nz/tv.trackside1.m3u8|X-Forwarded-For=202.89.4.222
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png" group-title="Oceania",TAB Trackside 2
+https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png.pagespeed.ic_.2KNN9OHw1p.png" group-title="Oceania",澳大利亚天和电视
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
