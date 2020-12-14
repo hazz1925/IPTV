@@ -1,5 +1,46 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="tv.101406050655" tvg-logo="https://i.mjh.nz/.images/tv.101406050655.png",TEN
+https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101406050653" tvg-logo="https://i.mjh.nz/.images/tv.101406050653.png",10 Shake Adelaide
+https://i.mjh.nz/au/Adelaide/tv.101406050653.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101406050658" tvg-logo="https://i.mjh.nz/.images/tv.101406050658.png",10 Peach
+https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101406050657" tvg-logo="https://i.mjh.nz/.images/tv.101406050657.png",10 Bold
+https://i.mjh.nz/au/Adelaide/tv.101406050657.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101305050550" tvg-logo="https://i.mjh.nz/.images/tv.101305050550.png",Seven
+https://i.mjh.nz/au/Adelaide/tv.101305050550.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101305050553" tvg-logo="https://i.mjh.nz/.images/tv.101305050553.png",7mate
+https://i.mjh.nz/au/Adelaide/tv.101305050553.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101305050555" tvg-logo="https://i.mjh.nz/.images/tv.101305050555.png",7flix
+https://i.mjh.nz/au/Adelaide/tv.101305050555.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101305050552" tvg-logo="https://i.mjh.nz/.images/tv.101305050552.png",7TWO
+https://i.mjh.nz/au/Adelaide/tv.101305050552.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101204500451" tvg-logo="https://i.mjh.nz/.images/tv.101204500451.png",Channel 9
+https://i.mjh.nz/au/Adelaide/tv.101204500451.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101204500459" tvg-logo="https://i.mjh.nz/.images/tv.101204500459.png",9Rush Adelaide
+https://i.mjh.nz/au/Adelaide/tv.101204500459.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101204500454" tvg-logo="https://i.mjh.nz/.images/tv.101204500454.png",9Life
+https://i.mjh.nz/au/Adelaide/tv.101204500454.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101204500458" tvg-logo="https://i.mjh.nz/.images/tv.101204500458.png",9Go!
+https://i.mjh.nz/au/Adelaide/tv.101204500458.m3u8|X-Forwarded-For=52.62.247.239
+
+#EXTINF:-1 tvg-id="tv.101204500457" tvg-logo="https://i.mjh.nz/.images/tv.101204500457.png",9Gem
+https://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8|X-Forwarded-For=52.62.247.239
+
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -778,6 +819,7 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="澳洲",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="东南亚精选",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
