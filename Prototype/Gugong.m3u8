@@ -747,7 +747,9 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="澳洲",ACC
 http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="C44.AU" tvg-logo="https://c44.com.au/wp-content/uploads/2018/04/44-Logo-Approved-clbkg-no-text.png" group-title="澳洲",Channel 44
-https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/index_0500_av-p.m3u8
+https://i.mjh.nz/au/Adelaide/tv.c44.m3u8
+#EXTINF:-1 tvg-ID="C44.AU" tvg-logo="https://c44.com.au/wp-content/uploads/2018/04/44-Logo-Approved-clbkg-no-text.png" group-title="澳洲",Channel 44 2
+https://i.mjh.nz/au/Adelaide/tv.c44.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="澳洲",ABC
 https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="澳洲",ABC Comedy
