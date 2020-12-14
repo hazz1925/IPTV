@@ -484,7 +484,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="ATN.BD" tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="Hindustan(বাংলা)",ATN Bangla
 http://163.172.29.246:8081/globalbd/atnbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="Hindustan(বাংলা)",Colors বাংলা
-http://185.246.210.54:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=
+http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="CT1.BD" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="Hindustan(বাংলা)",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title=""Hindustan(বাংলা)",Enter 10 আনন্দ
@@ -494,7 +494,7 @@ http://185.246.210.54:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা সিনেমা
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Hindustan(বাংলা)",Star Jalsha
-http://185.246.210.54:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="SJM.IN" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="Hindustan(বাংলা)",Star Jalsha Movies
 http://185.246.210.54:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="BDW.DB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="Hindustan(বাংলা)",BTV World
