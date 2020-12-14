@@ -1370,16 +1370,12 @@ https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.vimeocdn.com/portrait/63310_300x300" group-title="Tanazia",Tanazia Safari TV
 https://live-tanzaniasafari2020.cdnvideo.ru/tanzaniasafari2020/tanzaniasafari2020/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://ar.aljanoubiyatv.net/wp-content/uploads/2015/09/header.png" group-title="تونس",Al Janoubia TV
-http://92.222.93.75:1935/live2/samir/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="تونس",Hannibal TV
 http://178.132.3.162:88/hannibal/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title="تونس",Nessma TV
+#EXTINF:-1 tvg-id="NES.TN" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title="تونس",Nessma TV
 https://exodiver.github.io/IPTV/M3U8/Token/NES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="تونس",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.telvza-tv.tn/images/front/logo.png" group-title="تونس",Telvza
-http://149.202.197.2:1935/telvzaweb/myStream/index.m3u8a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tunisieimmobiliertv.net/wp-content/uploads/2016/11/logo-tunisie-immobilier-tv-1.png" group-title="تونس",Tunisie Immobilier
 http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.marinatv.me/images/marina_tv.png" group-title="تونس",Marina TV
