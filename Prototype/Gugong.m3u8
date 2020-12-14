@@ -39,13 +39,15 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="新马",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV3
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kOh9Zq8BiV2T27tKDcqVsE)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q09GVfaFdNROkb5tsdefxo)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马",NTV 7
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q15WZdt0BnYwn9XT_8s7Io)/dm/3/x7a7rxp/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q15WZdt0BnYwn9XT_8s7Io)/dm/3/x7a7rxp/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="新马",八度空间
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08na0VaUMBgzM57LhjUK8DFo)/dm/3/x7a7ru1/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08na0VaUMBgzM57LhjUK8DFo)/dm/3/x7a7ru1/s/live-4.m3u8
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="新马",八度空间 2
+https://exodiver.github.io/IPTV/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="新马",TV9
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qPh9SRKThaG7MGhgOrPxVM)/dm/3/x7a7rf7/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kSVz5d3jHHomRt1dw--hhE)/dm/3/x7a7rf7/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="新马",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="新马",Astro Naura
