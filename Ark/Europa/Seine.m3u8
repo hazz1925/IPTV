@@ -631,7 +631,8 @@ https://cdn.onestreaming.com/deltatv/deltatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://diktyotv.gr/wp-content/themes/yootheme/cache/logo-diktyo-inv-4ad375b3.png" group-title="Ελλάδα",Δiktyo TV
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://p1.dos.pm/gr/ena/logo.jpg group-title="Ελλάδα",ENA Channel
-http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://irida-webtv.gr/images/Logo_IridaWebTv2019.png" group-title="Ελλάδα",Irida TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/KontraChannel.gr.png" group-title="Ελλάδα",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvstar.gr/images/tvstar-images/logos/logo.png" group-title="Ελλάδα",Star Κεντρικής Ελλάδας 
@@ -640,12 +641,16 @@ https://exodiver.github.io/IPTV/M3U8/M3U8/Token/StarL.m3u8
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/Star.gr.png" group-title="Ελλάδα",Star TV
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 tvg-logo="https://samiaki.tv/inc/uploads/2019/10/sat-logo.png "group-title="Ελλάδα",Samaiki
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://trttv.gr/wp-content/uploads/2019/04/TRT_LOGO.png" group-title="Ελλάδα",RT TV
 https://www.hellasnet.tv/rest.live.hn/ws.trt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://thrakinet.tv/wp-content/uploads/2019/11/THRAKINET-300x77.png" group-title="Ελλάδα",Θράκη Νετ TV
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.flysat-live.com/logo/Greece/epiloges.png" group-title="Ελλάδα",Tile Epoiloges
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/gr-tv-kosmos-9561.jpg" group-title="Ελλάδα",TV Kosmo
+https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvrodopi.gr/images/logo.png" group-title="Ελλάδα",TV Rodopi
 https://video.connect4.gr/live/tvrodopi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/e6bf1484a9da6fdb53ac643a5886cfff.jpeg" group-title="Ελλάδα",TV 100
@@ -658,6 +663,8 @@ https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/poster_4-min.jpg" group-title="Ελλάδα",Mega
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/TV1Syros.gr.png" group-title="Ελλάδα",TV 1 Syros 
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hellenicparliament.gr/images/logo_el.gif" group-title="Ελλάδα",Βουλή Τηλεόραση
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://greekcinematv.com/wp-content/uploads/2018/02/GREEK-CINEMA-LOGO-WHITE-no-background.png" group-title="Ελλάδα",Greek Cinema
@@ -696,33 +703,16 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
-
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="MESOGEIOS TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS TV
-http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
-
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALFA.gr" tvg-logo="https://i.imgur.com/39l3uRU.jpg",ALFA DRAMAS
 http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SAMIAKI TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
-http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-
-
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO" tvg-logo="https://i.imgur.com/8qLqTaK.jpg",LEPANTO 
 https://video1.getstreamhosting.com:1936/8024/8024/playlist.m3u8
-
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PELLA" tvg-logo="https://i.imgur.com/9YFieqB.jpg",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EGNATIA" tvg-logo="https://i.imgur.com/XQyysct.jpg",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IRIDA TV" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV
-https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KOSMOS" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS
-https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS.gr" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-
-
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/LyRMqHO.jpg",GRD CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/hfia0wN.png",WIXLAR
@@ -789,7 +779,6 @@ https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="Ελλάδα",91 NRG
 https://w1.viastreaming.net/onweb/live/chunklist_w1080573781.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://best-tv.gr/wp-content/uploads/2020/04/LOGO-BEST-NEW-600x199.png" group-title="Ελλάδα",Best TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://barazaradio.com/wp-content/uploads/2019/10/logo-300x300.png" group-title="Ελλάδα",Baraza Greek Music
@@ -800,7 +789,6 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 http://barazatv.srfms.com:1935/barazatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://corfutvnews.gr/wp-content/uploads/corfu-tv-news-logo-main.png" group-title="Ελλάδα",Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.epirustv1.eu/img/logo.png" group-title="Ελλάδα",Epirus TV 1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://res.cloudinary.com/oneuser/image/upload/bo_10px_solid_rgb:fff,c_fill,g_center,h_180,w_180/dqbrudjnynu9zupypl2w.png" group-title="Ελλάδα",Filopoli TV
@@ -815,6 +803,8 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvcreta.gr/wp-content/uploads/2017/02/logo-retina-300x48.png" group-title="Ελλάδα",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mesogeiostv.gr/wp-content/uploads/2017/10/22752813_10210787515059058_1317216446_n-300x64.jpg" group-title="Ελλάδα",MESOGEIOS TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://messiniaradio.gr/wp-content/uploads/2016/02/WEB.png" group-title="Ελλάδα",Messinia TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://pbs.twimg.com/profile_images/699706953027579904/nmY_iMMC.png" group-title="Ελλάδα",NETV
@@ -827,8 +817,6 @@ https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://greektv.upg.gr/img/imageslow/tilemousiki.jpg" group-title="Ελλάδα",Tile Mousiki 
 http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gr/TV1Syros.gr.png" group-title="Ελλάδα",TV 1 Syros 
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://greektv.upg.gr/img/imageslow/tilemousiki.jpg" group-title="Ελλάδα",Greek Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
 
