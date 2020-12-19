@@ -163,6 +163,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="CT6.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6 电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 tvg-id="CT7.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7 军事
@@ -245,7 +249,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="XJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="XMW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="中国",厦门卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
+https://live1.kxm.xmtv.cn/xmtxmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="中国",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
@@ -557,10 +561,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 #EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="体育",ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="体育",ESPN 2
