@@ -89,26 +89,40 @@ http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
 #EXTINF:-1 tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="香港",澳亞衛視
 http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 
+#EXTINF:-1 tvg-id="ZST.TW" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="台湾",中視
+rtmp://59.124.75.156/sat/tv091
+#EXTINF:-1 tvg-id="ZXW.TW" tvg-logo="http://tv.sason.xyz/logo/zsxw.png" group-title="台湾",中視
+http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="台湾",民視第一
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="台湾",民視台灣
-http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="台湾",民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="台湾",原住民電視
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TST.TW" tvg-logo="https://www.ttv.com.tw/group/15/images/TTV_HD_LOGO_36.png" group-title="台湾",台視
 rtmp://59.124.75.156/sat/tv071
+#EXTINF:-1 tvg-id="TSW.TW" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="台湾",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HST.TW" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="台湾",华視
 rtmp://59.124.75.156/sat/tv111
-#EXTINF:-1 tvg-id="ZST.TW" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="台湾",中視
-rtmp://59.124.75.156/sat/tv091
+#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="http://tv.sason.xyz/logo/hsxw.png" group-title="台湾",华視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="台湾",TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="台湾",TVBS歡樂
 rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="台湾",三立新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="SIN.TW" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="台湾",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="台湾",东森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLC.TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="台湾",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="台湾",大愛1
@@ -121,8 +135,6 @@ http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv/chunklist_w1474469129.m3u8
 #EXTINF:-1 tvg-id="WXT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台湾",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="台湾",原住民電視
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="台湾",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
