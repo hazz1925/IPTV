@@ -778,7 +778,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://iptv36.my.to/altv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="东南亚精选",TPTV
 https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="东南亚精选",TNN16
+#EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="东南亚精选",TNN16
 http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
 #EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="东南亚精选",New18
 https://exodiver.github.io/IPTV/M3U8/Token/NEW18.m3u8
