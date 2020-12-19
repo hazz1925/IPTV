@@ -768,48 +768,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="东南亚精选",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="东南亚精选",ททบ 5
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="东南亚精选",NBT 2
-http://203.154.243.31:23040
-#EXTINF:-1 tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="东南亚精选",Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="ALT4.TH" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="东南亚精选",ALTV4
-https://iptv36.my.to/altv.m3u8
-#EXTINF:-1 tvg-id="TPT.TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="东南亚精选",TPTV
-https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="东南亚精选",TNN16
-http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
-#EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="东南亚精选",New18
-https://exodiver.github.io/IPTV/M3U8/Token/NEW18.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="东南亚精选",Voice TV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
-#EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="东南亚精选",Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="东南亚精选",Workpoint
-https://exodiver.github.io/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="东南亚精选",GMM 25
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
-#EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="东南亚精选",ช่อง 8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png" group-title="东南亚精选",Mono 29
-https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
-#EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="东南亚精选",MCOT
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="东南亚精选",ONE 31
-http://203.154.243.31:23005
-#EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="东南亚精选",Thairath TV
-http://203.154.243.31:23003
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="东南亚精选",ดูทีวีสีช่อง 3
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://static.epg.best/th/PPTV.th.png" group-title="东南亚精选",PPTV
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="东南亚精选",ช่อง 7
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-#EXTINF:-1 tvg-id="AMA.TH" tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="东南亚精选",Amarin TV
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="T4U.TH" tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="东南亚精选",True4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
+#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png" group-title="东南亚精选",Mono 29
+https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="东南亚精选",ONE 31
+http://203.154.243.31:23005
 
 #EXTINF:-1 tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="东南亚精选",Kapamilya Channel
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
