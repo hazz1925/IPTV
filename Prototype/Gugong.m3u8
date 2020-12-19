@@ -776,7 +776,7 @@ http://203.154.243.31:23040
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="ALT4.TH" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="东南亚精选",ALTV4
 https://iptv36.my.to/altv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="东南亚精选",TPTV
+#EXTINF:-1 tvg-id="TPT.TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="东南亚精选",TPTV
 https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="东南亚精选",TNN16
 http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
