@@ -105,7 +105,7 @@ http://seb.sason.top/ptv/ftv.php?id=tw
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TST.TW" tvg-logo="https://www.ttv.com.tw/group/15/images/TTV_HD_LOGO_36.png" group-title="台湾",台視
 rtmp://59.124.75.156/sat/tv071
-#EXTINF:-1 tvg-id="TSW.TW" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="台湾",台視新聞
+#EXTINF:-1 tvg-id="TSX.TW" tvg-logo="http://tv.sason.xyz/logo/tsxw.png" group-title="台湾",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HST.TW" tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="台湾",华視
 rtmp://59.124.75.156/sat/tv111
@@ -119,7 +119,7 @@ rtmp://59.124.75.156/sat/tv421
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="台湾",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="SIN.TW" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="台湾",三立iNews
+#EXTINF:-1 tvg-id="SLC.TW" tvg-logo="http://tv.sason.xyz/logo/slxw.png" group-title="台湾",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="DLX.TW" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="台湾",东森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
