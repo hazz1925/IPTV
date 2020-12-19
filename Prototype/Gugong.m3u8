@@ -775,9 +775,9 @@ http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/ch8.png" group-title="东南亚精选",ช่อง 8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="东南亚精选",NBT 2 HD
+#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="东南亚精选",NBT 2 HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="东南亚精选",NBT 2
+#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="东南亚精选",NBT 2
 http://live.prd.go.th:1935/live/ch9_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="东南亚精选",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -787,7 +787,7 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist/index.m3u8
 https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="东南亚精选",New18
 https://exodiver.github.io/IPTV/M3U8/Token/NEW18.m3u8
-#EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://www.nationtv.tv/main/assets/images-v5/logo.png" group-title="东南亚精选",Nation TV
+#EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="东南亚精选",Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="东南亚精选",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
