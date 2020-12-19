@@ -121,7 +121,7 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="SLC.TW" tvg-logo="https://attach.setn.com/images/0626_691_1920x240.png" group-title="台湾",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="http://tv.sason.xyz/logo/dsxw.png" group-title="台湾",东森新聞
+#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="台湾",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLC.TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="台湾",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
