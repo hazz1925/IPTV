@@ -777,7 +777,7 @@ http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 #EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png" group-title="东南亚精选",Mono 29
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="东南亚精选",ONE 31
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="东南亚精选",ONE 31
 http://203.154.243.31:23005
 
 #EXTINF:-1 tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="东南亚精选",Kapamilya Channel
