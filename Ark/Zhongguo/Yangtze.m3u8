@@ -959,7 +959,7 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="スポーツ",J Sports 4
 http://193.42.99.130:23455/3670/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportslive-plus.com/_common/img/logo.png" group-title="スポーツ",スポーツライブ
-hhttp://193.42.99.130:23455/7160/playlist.m3u8
+http://193.42.99.130:23455/7160/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="スポーツ",Golf Network
 http://193.42.99.130:23455/4320/playlist.m3u8
 
