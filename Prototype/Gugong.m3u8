@@ -606,6 +606,17 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="体育",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
 
+#EXTINF:-1 tvg-ID="SP1.PT" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="体育",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-ID="SP2.PT" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="体育",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-ID="SP3.PT" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="体育",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-ID="SP4.PT" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="体育",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-ID="SP5.PT" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="体育",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Trackside1nz.png" group-title="体育",TAB Trackside 1
 https://i.mjh.nz/nz/tv.trackside1.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png" group-title="体育",TAB Trackside 2
