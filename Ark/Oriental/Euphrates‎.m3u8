@@ -476,6 +476,10 @@ https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.
 https://live2.alalamtv.net/live/Alalam_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Breeze.ir.png" group-title="العراق",IRIB Nasim
 http://live.farsiland.com/nasim/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="العراق",IRIB Fars
+http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Persian 2
@@ -484,8 +488,6 @@ http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM English
-https://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="العراق",IRIB Varzesh
 https://live.farsiland.com/varzesh/350822/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="العراق",MBC Persia
