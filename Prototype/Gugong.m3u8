@@ -931,5 +931,5 @@ https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
-#EXTINF:-1 tvg-id="R13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选ל",Reshet 13
+#EXTINF:-1 tvg-id="R13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
