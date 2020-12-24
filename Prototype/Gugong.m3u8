@@ -875,13 +875,6 @@ http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_STS/variant
 #EXTINF:-1 tvg-id="THT.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="欧洲精选",ТНТ
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TNT/variant.m3u8
 
-#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="欧洲精选",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="欧洲精选",Kanal D
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="欧洲精选",Star
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲精选",één
@@ -926,10 +919,17 @@ https://exodiver.github.io/IPTV/M3U8/Token/NES.m3u8
 #EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="中东精选",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
+#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="欧洲精选",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="欧洲精选",Kanal D
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="欧洲精选",Star
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="中东精选",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
-#EXTINF:-1 tvg-id="KAH.IL" tvg-logo="https://static.epg.best/il/KanHinuchit.il.png" group-title="中东精选",Kan Hinuchit
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
+#EXTINF:-1 tvg-id="R13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选ל",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
