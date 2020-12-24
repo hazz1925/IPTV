@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="Español",Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/il/KanHinuchit.il.png" group-title="ישראל",כאן חינוכית
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="ישרא",קשת 12
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8|X-Forwarded-For=87.239.255.120
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiye",NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="Türkiye",Star
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -874,10 +861,19 @@ https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="欧洲精选",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="Cla.ES" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="欧洲精选",Clan
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-id="AZ1.MX" tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="欧洲精选",Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8|X-Forwarded-For=194.41.112.22
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="欧洲精选",Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="中东精选",Kanal D
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="欧洲精选",Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -888,7 +884,7 @@ http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TNT/variant
 
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="欧洲精选",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲精选",VRT één
+#EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="欧洲精选",één
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
@@ -897,8 +893,6 @@ http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="欧洲精选",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
-#EXTINF:-1 tvg-id="M1.MO" tvg-logo="https://static.epg.best/md/Moldova1.md.png" group-title="欧洲精选",Moldova 1
-http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="欧洲精选",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
@@ -933,11 +927,9 @@ https://exodiver.github.io/IPTV/M3U8/Token/NES.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
 
-#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="中东精选",Kanal D
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="中东精选",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/il/KanHinuchit.il.png" group-title="中东精选",Kan Hinuchit
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
