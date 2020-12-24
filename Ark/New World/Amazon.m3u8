@@ -1158,6 +1158,38 @@ http://31.14.40.142:544/liveTrans/ngrp:NTvDirect_all/chunklist_w2112971763_b1365
 #EXTINF:-1 tvg-logo="https://sc2.elpais.com.uy/images/default/og_ovacion.jpg" group-title="Uruguay",Ovación
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.montevideo.com.uy/imgnoticias/201903/_W933_80/686959.jpg" group-title="Uruguay",Canal 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c5eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/uy/TelevisionNacionalUruguay.uy.png" group-title="Uruguay",Television Nacional Uruguay
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/uy/Canal10.uy.png" group-title="Uruguay",Canal 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c5eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="Uruguay",Teledoce
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c5eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/uy/TeveCiudad.uy.png" group-title="Uruguay",Teve Ciudad
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/uy/VTV.uy.png" group-title="Uruguay",VTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/180px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="Venezuela",Venezolana de TV
 https://593fa17dec176.streamlock.net/vtvweb4/vtvweb4/chunklist_w792631932.m3u8
 #EXTINF:-1 tvg-logo="https://vpitv.com/wp-content/uploads/2018/07/Logo_2018_VPItv_grey-04-04.png" group-title="Venezuela",VPI TV Venezuela
