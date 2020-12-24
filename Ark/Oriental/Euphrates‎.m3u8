@@ -769,7 +769,7 @@ https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b124800
 #EXTINF:-1 tvg-id="" tvg-logo="http://kab.tv/static/images/kab_tv_heb.gif" group-title="ישראל",קבלה TV
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="ישראל",Reshet 13
-https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/il/Channel20.il.png" group-title="ישראל",Channel 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yeshuachai.tv/sites/default/files/logo.png" group-title="ישראל",Yeshua Chai
@@ -826,8 +826,6 @@ https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Türkiye",Kanal D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kanalddrama.com/assets/img/logo/logo2.png" group-title="Türkiye",Kanal D Drama
-http://5.135.92.133:52841/out/u/549_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/Kanal7.tr.png" group-title="Türkiye",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiye",NTV
@@ -1140,8 +1138,6 @@ http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="مَصر",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.koky.tv/wp-content/uploads/2020/02/koky.png" group-title="مَصر",Koky Kids
-http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://sc.dish.com/shared/images/station-logos/AGAPY.png" group-title="مَصر",Aghapy TV
 http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
