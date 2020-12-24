@@ -886,7 +886,7 @@ http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 #EXTINF:-1 tvg-id="M1.MO" tvg-logo="https://static.epg.best/md/Moldova1.md.png" group-title="欧洲精选",Moldova 1
 http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1 tvg-id="LRT.LT tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="欧洲精选",LRT Lituanica
+#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="欧洲精选",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT1
