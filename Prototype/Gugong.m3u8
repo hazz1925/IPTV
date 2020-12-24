@@ -1,52 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 2
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 3
-https://edge4-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 4
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
-
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 5
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c5eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
-
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 6
-https://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
-
-#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sukan",TNT Sports 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
-https://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="新马",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -914,6 +867,11 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8|X-Forwarded-For=194.41.112.22
 #EXTINF:-1 tvg-ID="GLO.BR" tvg-logo="https://static.epg.best/pt/Globo.pt.png" group-title="欧洲精选",Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/uy/TeveCiudad.uy.png" group-title="欧洲精选",Teve Ciudad
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
 
 #EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
